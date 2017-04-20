@@ -29,6 +29,7 @@ public class Trabalho {
             else
                 System.out.print(", ");
         }
+        ///alteração
     }
      
     static String[] gerador () {
