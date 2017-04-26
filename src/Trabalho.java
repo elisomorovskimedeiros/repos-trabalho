@@ -46,6 +46,7 @@ static int  lerInteiro (String mensagem){
     Scanner in = new Scanner (System.in);
     a = in.nextInt();
         return a;
+//fazendo mais alterações
      
      
 }
