@@ -57,5 +57,5 @@ static String captura(String mensagem) {
         return retorno;
     }
 
-//Alteração para o git
+//Alteração para o github...
 }
